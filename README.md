@@ -2,6 +2,7 @@
 *Turma:* 35N34
 *Disciplina:* Fundamentos da computação 
 *Data:* 04/05/2026
+
 #sistema de Atendimento de Loja - ProgramaEC1
 
 ## 1. Lógica de Funcionamento
