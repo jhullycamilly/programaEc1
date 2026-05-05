@@ -3,7 +3,7 @@
 *Disciplina:* Fundamentos da computação 
 *Data:* 04/05/2026
 
-#sistema de Atendimento de Loja - ProgramaEC1
+# Sistema de Atendimento de Loja - ProgramaEC1
 
 ## 1. Lógica de Funcionamento
 O sistema simula o atendimento básico de uma loja por meio de um menu interativo no terminal.
